@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dhkrmynti/ant-paper-trade/main/logo-github-black.png" width="110" alt="Anthropic Agent">
+  <img src="https://raw.githubusercontent.com/Dhkrmynti/ant-paper-trade/main/logo-github-default.png" width="150" alt="Anthropic Agent">
 </p>
 
 <h1 align="center">Anthropic Agent — brand kit</h1>
